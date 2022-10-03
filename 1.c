@@ -39,8 +39,8 @@ void password(char str[]) {
 
 void addclient () {
 
-  char name[100];
-  char pass[150];
+  char name[75];
+  char pass[75];
   char permission[100];
   char line[100];
   char *token;
