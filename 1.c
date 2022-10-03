@@ -493,7 +493,7 @@ void view(){
     }
 
 
-  puts("\n\nPremere un qualsiasi tasto per tornare al menu principale...");  
+  puts("\n\nPremere un qualsiasi tasto per tornare al menu principale ...");  
   getch();
   system("cls");
   
@@ -763,7 +763,7 @@ int main () {
           printf("%c 2 - Modificare una credenziale\n", 204);
           printf("%c 3 - Visualizzare una credenziale\n", 204);
           printf("%c 4 - Elimina una credenziale \n", 204);
-          printf("%c 5 - Visualizzare i siti registrati\n", 204);
+          printf("%c 5 - Visualizzare siti registrati\n", 204);
           printf("%c 6 - Esci\n\n? ", 200);
           scanf("%d", &scelta);
         }
