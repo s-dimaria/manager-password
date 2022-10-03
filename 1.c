@@ -41,8 +41,8 @@ void addclient () {
 
   char name[75];
   char pass[75];
-  char permission[100];
-  char line[100];
+  char permission[50];
+  char line[600];
   char *token;
   char tmp[100];
   int kick = 0 ;
