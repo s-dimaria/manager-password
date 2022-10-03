@@ -2,3 +2,5 @@
 It's a manager password writen in C, with basic functionality
 
 Password are stored localy and not encrypted
+
+Pull Request are welcome #hacktoberfest
